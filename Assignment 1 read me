@@ -1,0 +1,16 @@
+Bag of Marbles design:
+Idea:
+My idea to have a program that could resemble a bag of marbles would be very simple.
+I would design the program like a game that would let the user interact with the bag of marbles.
+i would set up a menu where it would welcome the user into the program and ask them to choose an action to perform.
+One option would be to add marbles and another to remove the marble and an option that closes the program.
+I would also want a line that displays whats in the bag to see the program working.
+
+Implementation:
+I will use a switch statement that lets the user add a marble, remove a marble, and close the program.
+I will also put the the whole program in a while loop to keep the game going until the user closes the program.
+I will use a vector to act as the bag of marbles since it will hold variables(marbles).
+To remove a marble I will use the pop_back function and to add a marble I will use the push_back function.
+To display the bag I will use a for loop that displays whats in the vector.
+
+Im not very good with designs so pls let me know what you think. :)
